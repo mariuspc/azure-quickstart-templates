@@ -14,9 +14,10 @@
         "East US",
         "East US 2",
         "West Europe",
-        "Southeast Asia"
+        "Southeast Asia",
+        "UK South"
       ],
-      "defaultValue": "East US",
+      "defaultValue": "UK South",
       "metadata": {
         "description": "Location of the data factory."
       }
